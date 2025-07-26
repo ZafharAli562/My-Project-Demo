@@ -1,4 +1,4 @@
 # My-Project-Demo
 My first Git Repository
 <br>
-Authour - Zafhar Ali
+Authour - Zafhar Ali Shaik
